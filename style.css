@@ -1,1 +1,46 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
 
+header {
+    background-color: rgb(31, 71, 43);
+    color: white;
+    display: inline;
+    text-align: right;
+    height: 30px;
+    width: 100%;
+    position: fixed;
+    right: 0;
+    top: 0
+}
+
+footer {
+    background-color: rgb(31, 71, 43);
+    color: white;
+    display: block;
+    text-align: center;
+    height: 50px;
+    margin: 20px
+}
+
+
+#section1 {
+    background-color: rgb(163, 111, 73);
+    text-align: center;
+    padding: 10px
+}
+
+#section2 {
+    background-color: rgb(224, 191, 147);
+    text-align: center;
+}
+
+#h1 {
+    font-size: 45px;
+    color: rgb(44, 44, 44);
+}
+
+a:any-link {
+    color: white;
+    font-size: 20px;
+}
